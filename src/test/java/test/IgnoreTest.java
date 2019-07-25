@@ -5,19 +5,14 @@ import org.junit.Ignore;
 
 import static org.junit.Assert.assertTrue;
 
-public class AccountSystemTest {
+@Ignore public class IgnoreTest {
     @Test
-    public void name() {
+    public void test1() {
         assertTrue(true);
     }
 
     @Test
-    public void age() {
-        assertTrue(true);
-    }
-
-    @Ignore("not ready yet") @Test
-    public void address() {
+    public void test2() {
         assertTrue(true);
     }
 }
