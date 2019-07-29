@@ -82,4 +82,160 @@ public class UserSystemTest {
         boolean result = false;
         assertTrue(result);
     }
+
+    @Test
+    public void name13() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name14() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name15() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name16() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name17() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name18() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name19() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name20() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name21() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name22() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name23() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name24() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name25() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name26() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name27() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name28() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name29() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name30() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name31() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name32() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name33() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name34() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name35() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name36() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name37() {
+        boolean result = false;
+        assertTrue(result);
+    }
+
+    @Test
+    public void name38() {
+        boolean result = false;
+        assertTrue(result);
+    }
 }
