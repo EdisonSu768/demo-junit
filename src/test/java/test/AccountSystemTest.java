@@ -7,17 +7,12 @@ import static org.junit.Assert.assertTrue;
 
 public class AccountSystemTest {
     @Test
-    public void name() {
+    public void age1() {
         assertTrue(true);
     }
 
     @Test
-    public void age() {
-        assertTrue(true);
-    }
-
-    @Ignore("not ready yet") @Test
-    public void address() {
+    public void age2() {
         assertTrue(true);
     }
 }
