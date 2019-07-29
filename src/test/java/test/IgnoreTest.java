@@ -77,7 +77,7 @@ import static org.junit.Assert.assertTrue;
     }
 
     @Test
-    public void test15()) {
+    public void test15() {
         assertTrue(true);
     }
 
